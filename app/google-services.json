@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "314247740719",
+    "firebase_url": "https://wkshopproject.firebaseio.com",
+    "project_id": "wkshopproject",
+    "storage_bucket": "wkshopproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314247740719:android:90acbc306f45bdcb",
+        "android_client_info": {
+          "package_name": "com.example.wkshopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314247740719-s7ftbkgarp7853i5prd3ni3ql14pk3b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wkshopproject",
+            "certificate_hash": "69f028d8ef496aa89c813a49300ba5569e28e356"
+          }
+        },
+        {
+          "client_id": "314247740719-nkcjmn17p6ad47fu25hdgb2t6sf02hlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUHSU_pwJigHk7lfWKSu9Wp_qiWjaukg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314247740719-nkcjmn17p6ad47fu25hdgb2t6sf02hlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
